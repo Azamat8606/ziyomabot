@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pytelegrambotapi = "*"
 beautifulsoup4 = "*"
+aiogram = "*"
 
 [dev-packages]
 
